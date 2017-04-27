@@ -6,19 +6,19 @@ This bot won prizes in the following categories:
 * Onyx Beacon -- one of the best location-based hacks
 * Wolfram Alpha -- overall top ten winner
 
-##Authors
+## Authors
 This was worked on by [Seiji](https://github.com/sotsu00), [Aniketh](https://github.com/anikethb), and [me](https://github.com/therealkbhat).
 
-##What
+## What
 * Optimal meetup location decider
 * Takes in user locations
 * Pops out a central place to meet (name, location, URL)
 * @LocatoBot on Telegram
 
-##Why
+## Why
 Too much time is **wasted** on deciding where to meet.
 
-##How
+## How
 * [Gupshup](https://www.gupshup.io/developer/home)
 * [Telegram Messenger](https://telegram.org/)
 * [Google Places API](https://developers.google.com/places/)
